@@ -44,11 +44,11 @@
  
     3. Also Replaced values in Ratings columns to Numbers based on their Intensity and exported the Cleaned data as CSV to use it further for Sentimental Analysis.
     
-    4. Imported the Cleaned data in another ipynb file and did Scaling of Numerical columns using Standard Scaler and Encoding of categorical ones using OneHot Encoder. 
+    4. Imported the Cleaned data in another ipynb file for Sentimental Analysis. 
     
-    5. Performed Sentiment Intensity Analysis and based on it's score, categorized it as Positive or Negative and made a column of it in the Data Frame and performed analysis on it.
+    5. Performed Sentiment Intensity Analysis and based on it's score, categorized the Data as Positive or Negative and made a column out of it in the Data Frame and performed analysis on it.
     
-    6. Removing special charcters and stop words present in the text and performed Vectorization (feature extraction) on it.
+    6. Removed special charcters and stop words present in the text and performed Vectorization (feature extraction) on it.
    
     7. Built different ML models like Logistic Regression, Decision Tree and Random Forest and compared them on the basis of their Accuracy Score and other Key Metrics, to find out the best fit model for the task.
    
@@ -82,11 +82,11 @@
    
    <B> The aim of the Project is to: </B>
    
-   1. Assist the Social media platforms with the information that they can use to formulate their strategy in order to enhance the User's satisfaction.
+   1. Assist the Social media platforms with the Information that they can use to formulate their strategy in order to enhance the User's satisfaction.
    
-   2. Advise the social media platforms on their relationships with their users and helping them in expanding their user base.
+   2. Advise the social media platforms on their relationships with their users and help them in expanding their user base.
    
-   3. To provide the social media platforms a tool to keep track on their User's sentiments.
+   3. To provide the social media platforms a tool for keeping track on their User's sentiments.
    
    
    
