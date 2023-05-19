@@ -82,17 +82,11 @@
    
    <B> The aim of the Project is to: </B>
    
-   1. Assist the students in making themselves capable of getting placed and to get higher salaries.
+   1. Assist the Social media platforms with the information that they can use to formulate their strategy in order to enhance the User's satisfaction.
    
-   2. Help the organisations like Colleges and Educational Institutes in predicting the number of Students who can get placements, studying there.
+   2. Advise the social media platforms on their relationships with their users and helping them in expanding their user base.
    
-   3. To provide an idea of the employement situation in the Economy.
-   
-   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure placements.
-   
-   5. Helping the New Generation to plan their future with the informations like the required scores at different levels of eduction, most in demand subjects etc.
-   
-   6. Empowerment of common people with the relevant information that can help them to secure Placements and aid to raising the Employment rate of the Economy.
+   3. To provide the social media platforms a tool to keep track on their User's sentiments.
    
    
    
