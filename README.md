@@ -56,19 +56,11 @@
 
 # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Findings
    
-   1. The Data shows high Correlation between High School Percentage and Placement Status. 
+   1. Around 38% of the users have Negative Sentiments, whereas rest 62% have Positive Sentiments for Twitter's Services. This shows healthy User Satisfaction.
    
-   2. The Data shows that the People having Lower Percentage in High School are mostly not placed and others are mostly placed.
+   2. Users providing Rating as 1 are having highest number of Negative Sentiment bearing people whereas those providing Rating as 3 are having highest number of Positive Sentiment bearing people.
    
-   3. There is also a high positive correlation between scores in Graduation and Placement Status.
-   
-   4. The Data shows that around 25% of the people are not placed, the reason is mostly the lower scores at different levels of education.
-   
-   5. The Count of People decreases with Increasing salary, showing less placements at levels with higher salary.
-   
-   6. Linear Regression Model is suitable for Predicting Salary as the R2 Score is found around 96%, when tested, which is suitable.
-   
-   7. For Predicting the Employement Status, Logistic Regression Model is better as it shows the highest accuracy, around 84%. Total Positive Rate is also higher (22), compared to Decision Tree and Random Forest models (having 17).
+   3. The Random Forest ML Model with about 90% Accuracy Score is found the Best Fit Model for this task.
    
    <br>
    
