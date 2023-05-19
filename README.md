@@ -26,17 +26,13 @@
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the relationship between scores at different level of education and the placement status using scatter plot.
+    o       Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
     
-    o	Analysed the relationship between all the numerical columns of the Data using Pairplot.
+    o	Also analysed the F1 Scores, Precision Scores and Recall Scores of Different ML Models by creating their Classification Reports.
      
-    o	Analysed the relationship between Percentage score in Graduation and the Placement Status using Boxplot.
+    o	Performed comparison analysis to find out the Best Fit Machine Learning Model suitable for this task.
   
-    o	Analysed the correlation between the columns by using correlation heat map.
-    
-    o	Analysed the distribution of Salary amongst the people who are placed or are not placed.
-    
-    o	Analysed the suitability of different ML models for predicting placement status and salary of the people.
+    o	Analysed the relationship between the sentiments and ratings of the users.
 
 <br>
 
