@@ -38,17 +38,19 @@
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-    1. Started with cleaning the Data using Pandas, NumPy and Python's programming features 'for loop', replace, fillna, datatype conversion etc.
+    1. Started with cleaning the Data using Pandas by Dropping the Duplicates and Null values.
     
-    2. Did Outlier analysis of the numerical columns and removed the Outliers.
+    2. Created a new Data Frame with only relevant columns out of the initial Data Frame.
  
-    3. Did Exploratory analysis of the data, drawn out some important hidden insights using Pandas, Seaborn, Matplotlib etc and exported the cleaned data to a new CSV file.
+    3. Also Replaced values in Ratings columns to Numbers based on their Intensity and exported the Cleaned data as CSV to use it further for Sentimental Analysis.
     
     4. Imported the Cleaned data in another ipynb file and did Scaling of Numerical columns using Standard Scaler and Encoding of categorical ones using OneHot Encoder. 
     
-    5. Built Linear Regression model, predicting the Salary and tested it by finidng R2 score and other accuracy metrics.
+    5.  Performed Sentiment Intensity Analysis and based on it's score, categorized it as Positive or Negative and made a column of it in the Data Frame and performed analysis on it.
     
-    6. Built Logistic Regression, Decision Tree and Random Forest models to predict Placement Status and did comparison analysis with the help of accuracy score, confusion matrix, Classification report etc.
+    6. Removing special charcters and stop words present in the text and performed Vectorization (feature extraction) on it.
+   
+    7. Built different ML models like Logistic Regression, Decision Tree and Random Forest and compared them on the basis of their Accuracy Score and other Key Metrics, to find out the best fit model for the task.
    
 <br>
 
