@@ -16,10 +16,10 @@
 
 | Files| Description |
 | ------------- | ------------- |
-| **ML-ModelCreation_and_Analysis_EPML.ipynb** | This file contains the Python codes of the ML model creation and their Analysis parts. |
-| **DataCleaning_and_Analysis_EPML.ipynb** | This file contains the Python codes of the Data Cleaning and Exploratory Analysis parts. |
-| **Placement_Data.csv**  | This file provides the raw data for the project .  |
-| **Employment_Prediction_ML_Project.csv**  | This file contains the final data drawn out after the Data Cleaning.  |
+| **Twitter-Tweets-Sentimental-Analysis.ipynb** | This file contains the Python codes of the Suitable structuring of the Data, ML model creation and their Analysis parts. |
+| **TTSAP - Data - Cleaning.ipynb** | This file contains the Python codes of the Data Cleaning and Exploratory Analysis parts. |
+| **twitter_tweets.csv**  | This file provides the raw data for the project .  |
+| **TTSAP_Final_Data.csv**  | This file contains the final data drawn out after the Data Cleaning.  |
 <br>
 
 
