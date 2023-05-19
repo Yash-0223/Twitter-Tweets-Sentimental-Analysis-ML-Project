@@ -46,7 +46,7 @@
     
     4. Imported the Cleaned data in another ipynb file and did Scaling of Numerical columns using Standard Scaler and Encoding of categorical ones using OneHot Encoder. 
     
-    5.  Performed Sentiment Intensity Analysis and based on it's score, categorized it as Positive or Negative and made a column of it in the Data Frame and performed analysis on it.
+    5. Performed Sentiment Intensity Analysis and based on it's score, categorized it as Positive or Negative and made a column of it in the Data Frame and performed analysis on it.
     
     6. Removing special charcters and stop words present in the text and performed Vectorization (feature extraction) on it.
    
@@ -58,9 +58,11 @@
    
    1. Around 38% of the users have Negative Sentiments, whereas rest 62% have Positive Sentiments for Twitter's Services. This shows healthy User Satisfaction.
    
-   2. Users providing Rating as 1 are having highest number of Negative Sentiment bearing people whereas those providing Rating as 3 are having highest number of Positive Sentiment bearing people.
+   2. Users providing Ratings as 1 are having highest Negative Sentiment bearing User Population.
    
-   3. The Random Forest ML Model with about 90% Accuracy Score is found the Best Fit Model for this task.
+   3. Whereas, those Users who provided Ratings as 3 are having highest Positive Sentiment bearing User Population.
+   
+   4. The Random Forest ML Model with about 90% Accuracy Score is found the Best Fit Model for this task.
    
    <br>
    
